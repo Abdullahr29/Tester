@@ -9,6 +9,7 @@ public class DoctorList {
 
     public void addDoctor(String name){
         docList[count] = name;
+        count++;
     }
 
     public String getName(int i){
