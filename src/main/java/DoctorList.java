@@ -3,7 +3,7 @@ public class DoctorList {
     private int count = 0;
     public DoctorList(){
         docList = new String[10];
-        docList[0] = "Dr Mireia";
+        docList[0] = "Dr. Mireia";
         count = 1;
     }
 
